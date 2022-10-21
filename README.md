@@ -10,6 +10,12 @@ Este roadmap é voltado para iniciantes que desejam ingressar na área de progra
 
 ## Cursos ordenados por nível de dificuldade
 
+``system.out.println("Hello World! Sua jornada começou")``
+
+Antes de começar atualize o sistema
+``sudo apt-get update``
+
+
 **Nível Iniciante**
 
 - Introdução a plataforma Java - [acesse o curso](https://web.dio.me/course/introducao-ao-ecossistema-e-documentacao-java/learning/54e1ad91-8842-4065-bc89-37329f54f0cd/?back=/home)
@@ -20,5 +26,14 @@ Este roadmap é voltado para iniciantes que desejam ingressar na área de progra
 - Trabalhando com Collections Java - [acesse o curso](https://web.dio.me/course/trabalhando-com-collections-java/learning/a34f3db6-de2b-44fa-a059-6ae7785695cc/?back=/home)
 - Debugging Java - [acesse o curso](https://web.dio.me/course/debugging-java/learning/97fc1d8d-4f01-4856-a1a2-85c6117ccc75/?back=/home)
 - Tratamento de exceções em Java - [acesse o curso](https://web.dio.me/course/tratamento-de-excecoes-em-java/learning/8ab022fe-7c0e-41bc-95de-daedca653d7c/?back=/home)
+
+Tasks para continuar evoluindo:
+- [x] Começar a estudar Java🐗 
+- [] Assistir o curso 📺
+- [] Faça anotações 🗒 
+- [] Faça os projetos sozinho 🦾
+- [] Tire dúvidas 👨‍🏫
+- [] Done! 🎉 
+
 
 
