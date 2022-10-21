@@ -32,9 +32,9 @@ Metas do mês de novembro:
 Tasks para continuar evoluindo:
 - [X] Começar a estudar Java🐗 
 - [ ] Assistir o curso 📺
-- [ ] Faça anotações 🗒 
-- [ ] Faça os projetos sozinho 🦾
-- [ ] Tire dúvidas 👨‍🏫
+- [ ] Fazer anotações 🗒 
+- [ ] Fazer os projetos sozinho 🦾
+- [ ] Tirar dúvidas 👨‍🏫
 - [ ] Done! 🎉 
 
 
